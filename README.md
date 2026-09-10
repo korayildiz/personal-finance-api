@@ -3,7 +3,7 @@
 This is a little test project for myself on how to learn how to actually make applications. 
 Firstly, this started as a little console project which will be extended more and more over time!
 
-Like the name states this is (and hopefully will be) a small expense tracker.
+Like the name states this is (and hopefully will be a complete) a small expense tracker.
 
 ## Features
 - add income/expenses
