@@ -1,9 +1,11 @@
-# Personal Finance API 💵
+# Personal Finance API
 
-This is a little test project for myself on how to learn how to actually make applications. 
+
+
+
+This is a small personal project I started to learn how to build applications from scratch. 
 Firstly, this started as a little console project which will be extended more and more over time!
-
-Like the name states this is (and hopefully will be a complete) a small expense tracker.
+As the name suggests, the goal of this project is to create a small and hopefully complete expense tracker.
 
 ## Features
 - add income/expenses
